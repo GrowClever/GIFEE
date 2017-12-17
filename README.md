@@ -71,3 +71,4 @@ Here's a list of existing projects based on or related to GIFEE
 
 ### Spanner
 - [CockroachDB](https://github.com/cockroachdb/cockroach) A Scalable, Survivable, Strongly-Consistent SQL Database
+- [TiDB](https://github.com/pingcap/tidb) A distributed HTAP database compatible with MySQL protocol
