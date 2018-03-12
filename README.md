@@ -58,6 +58,9 @@ Here's a list of existing projects based on or related to GIFEE
 - [Nomad](https://github.com/hashicorp/nomad) A Distributed, Highly Available, Datacenter-Aware Scheduler
 - [Mesos](https://github.com/apache/mesos) A distributed systems kernel
 
+### Borgmon
+- [Prometheus](https://github.com/prometheus/prometheus) Systems monitoring and alerting toolkit
+
 ### BigTable
 - [HBase](https://github.com/apache/hbase) A distributed, scalable, big data store
 
