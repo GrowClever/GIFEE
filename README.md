@@ -32,18 +32,13 @@ GIFEE has a slack at [gifee.slack.com](https://gifee.slack.com). Invite yourself
 
 Follow on twitter at [@gifeecloud](https://twitter.com/gifeecloud)
 
-## Landscape
+## Open Source
 
-We have a few reference images which show the mapping between Google projects and OSS.
-
-![gstack](images/gstack.png)
-
-<br>
+[Joseph Jacks](https://twitter.com/asynchio) has put together a good reference to the mapping between Google and OSS tech.
 
 ![gstack](images/gstack.jpg)
 
-- [1](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
-- [2](https://twitter.com/asynchio/status/964536365185552389)
+- [https://twitter.com/asynchio/status/964536365185552389](https://twitter.com/asynchio/status/964536365185552389)
 
 ## Papers
 
