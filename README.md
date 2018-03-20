@@ -2,37 +2,15 @@
 
 **GIFEE** is "Google's infrastructure for everyone else"
 
-## What does it mean?
+## Overview
 
-Who knows really. Google things for everyone?
+- [Landscape](#landscape)
+- [Papers](#papers)
+- [Projects](#projects)
+- [Community](#community)
+- [FAQ](#faq)
 
-## What is GitHub/GIFEE?
-
-GitHub/GIFEE is a place to experiment with ideas based on Google's infrastructure and for reference architectures.
-
-## What will be built?
-
-GIFEE will be a reference architecture for cloud-native based on Google technology.
-
-## Will it be hosted?
-
-GIFEE projects will likely be hosted at [gifee.cloud](http://gifee.cloud)
-
-## Will it be Open Source?
-
-Yes all GIFEE projects will be open source
-
-## Can we contribute?
-
-Yes. Whether it be reference architectures, docs, images, whatever. Please join in on the fun.
-
-## Community
-
-GIFEE has a slack at [gifee.slack.com](https://gifee.slack.com). Invite yourself at [slack.gifee.cloud](http://slack.gifee.cloud)
-
-Follow on twitter at [@gifeecloud](https://twitter.com/gifeecloud)
-
-## Open Source
+## Landscape
 
 [Joseph Jacks](https://twitter.com/asynchio) has put together a good reference to the mapping between Google and OSS tech.
 
@@ -83,3 +61,38 @@ Here's a list of existing projects based on or related to GIFEE
 ### Spanner
 - [CockroachDB](https://github.com/cockroachdb/cockroach) A Scalable, Survivable, Strongly-Consistent SQL Database
 - [TiDB](https://github.com/pingcap/tidb) A distributed HTAP database compatible with MySQL protocol
+
+## Community
+
+GIFEE has a slack at [gifee.slack.com](https://gifee.slack.com). Invite yourself at [slack.gifee.cloud](http://slack.gifee.cloud)
+
+Follow on twitter at [@gifeecloud](https://twitter.com/gifeecloud)
+
+## FAQ
+
+### What does GIFEE mean?
+
+GIFEE is an acronym for Google's Infrastructure for Everyone Else.
+
+It's a term which has become a reference for open source equivalents of Google's technology.
+
+### What is this repo?
+
+GitHub/GIFEE is a place to experiment with ideas based on Google's infrastructure and for reference architectures.
+
+### What will be built?
+
+GIFEE will be a reference architecture for cloud-native based on Google technology.
+
+### Will it be hosted?
+
+GIFEE projects will likely be hosted at [gifee.cloud](http://gifee.cloud)
+
+### Will it be Open Source?
+
+Yes all GIFEE projects will be open source
+
+### Can we contribute?
+
+Yes. Whether it be reference architectures, docs, images, whatever. Please join in on the fun.
+
